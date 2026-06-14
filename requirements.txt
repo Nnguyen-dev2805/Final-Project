@@ -1,0 +1,11 @@
+joblib
+lightgbm
+numpy
+pandas
+scikit-learn
+streamlit
+matplotlib
+seaborn
+ipykernel
+pyarrow
+pyreadstat
